@@ -13,9 +13,9 @@ body {
 
 .page-actions-cont {
   height: 3rem;
-  background-color: #134611;
+  background-color: #34a853;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   padding-left: 1rem;
 }
 .page-action {
@@ -25,7 +25,7 @@ body {
 
 .cellprops-actions-cont {
   height: 3rem;
-  background-color: #ecf0f1;
+  background-color: #f1f3f4;
   display: flex;
   align-items: center;
   padding-left: 1rem;
@@ -53,7 +53,7 @@ body {
 .formula-actions-cont {
   padding-left: 1rem;
   height: 2rem;
-  background-color: #ecf0f1;
+  background-color: #f1f3f4;
   display: flex;
   align-items: center;
 }
@@ -78,7 +78,7 @@ body {
 }
 .sheet-actions-cont {
   height: 3rem;
-  background-color: #ecf0f1;
+  background-color: #f1f3f4;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
@@ -94,7 +94,7 @@ body {
   height: calc(100vh - 3rem - 3rem - 2rem - 3rem);
   position: relative;
   overflow: scroll;
-  background-color: #ecf0f1;
+  background-color: #f1f3f4;
 }
 .sheets-folder-cont {
   height: 80%;
@@ -126,7 +126,7 @@ body {
 }
 .address-row-cont {
   height: 2rem;
-  background-color: #ecf0f1;
+  background-color: #f1f3f4;
   display: flex;
   align-items: center;
   position: sticky;
@@ -142,7 +142,7 @@ body {
 }
 
 .address-col {
-  height: 2rem;
+  height: 1.7rem;
   width: 2rem;
   display: flex;
   justify-content: center;
@@ -158,14 +158,14 @@ body {
   width: 5rem;
 }
 .cell {
-  height: 2rem;
+  height: 1.7rem;
   width: 5rem;
   border: 1px solid #dfe4ea;
   outline: none;
-  padding: 5px;
   align-items: center;
-  font-family: "Times New Roman";
+  font-family: "arial";
   font-size: 14px;
+  padding: 2px;
   overflow: hidden;
 }
 .row-cont {

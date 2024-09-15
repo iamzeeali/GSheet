@@ -9,7 +9,7 @@ for (let i = 0; i < rows; i++) {
             italic: false,
             underline: false,
             alignment: "left",
-            fontFamily: "Times New Roman",
+            fontFamily: "arial",
             fontSize: '14',
             fontColor: '#000000',
             BGcolor: '#000000' //just for indentification
