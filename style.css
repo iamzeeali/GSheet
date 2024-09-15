@@ -162,7 +162,11 @@ body {
   width: 5rem;
   border: 1px solid #dfe4ea;
   outline: none;
+  padding: 5px;
   align-items: center;
+  font-family: "Times New Roman";
+  font-size: 14px;
+  overflow: hidden;
 }
 .row-cont {
   display: flex;
